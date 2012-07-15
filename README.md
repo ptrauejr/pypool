@@ -1,0 +1,4 @@
+pypool
+======
+
+Python Bitcoin POol
